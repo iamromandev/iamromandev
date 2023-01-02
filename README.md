@@ -1,4 +1,5 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 Software Engineer with 10+ years of experience in building mobile and web application. Dedicated to continuously researching, and developing new applications.<br>
 
 # 📊 GitHub Stats:
 [![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftenet)](https://github.com/iftenet/github-readme-stats)
