@@ -1,8 +1,10 @@
 # 💫 About Me:
-🔭 Software Engineer with 10+ years of experience in building mobile and web application. Dedicated to continuously researching, and developing new applications.<br>
+🔭 Software Engineer with 10+ years of experience in building mobile and web application.<br> Dedicated to continuously researching, and developing new applications.<br>
 
 # 📊 GitHub Stats:
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iftenet)](https://github.com/iftenet/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=iftenet&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iftenet&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iftenet&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 **iftenet/iftenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
