@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamromandev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamromandev&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=iamromandev&label=PROFILE+VIEWS)
 
 <!--
 **iamromandev/iamromandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
