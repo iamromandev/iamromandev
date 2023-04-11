@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Enthusiast of experience in building mobile and web application.<br> Dedicated to continuously researching, and developing new applications.<br>
+🔭 Software Engineer of experience in building mobile and web application.<br> Dedicated to continuously researching, and developing new applications.<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamromandev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
