@@ -1,26 +1,3 @@
 ## Hi there 👋 I'm Roman - Software Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=[%27Software%20Engineer%27,%27Passionate%20Coder%27,%27Problem%20Solver%27]&font=Fira%20Code&size=32&pause=500&color=00aaff&width=435&height=55&center=true)](https://git.io/typing-svg)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamromandev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamromandev&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamromandev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-![](https://komarev.com/ghpvc/?username=iamromandev&label=PROFILE+VIEWS)
-
-<!--
-**iamromandev/iamromandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamromandev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
