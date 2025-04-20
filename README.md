@@ -1,7 +1,4 @@
-# 💫 About Me:
-🔭 I am a self-taught developer with experience in designing, developing and maintaining software applications. I take into consideration the user experience while writing reusable and efficient code. I passionately combine good design, technology, and innovation in all my projects.
-
-Currently, I am focused on the Backend development and DevOps + AI practicing.<br>
+## Hi there 👋 I'm Roman - Software Engineer
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamromandev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
