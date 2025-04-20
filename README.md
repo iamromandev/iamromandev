@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Roman - Software Engineer
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=[%27Software%20Engineer%27,%27Passionate%20Coder%27,%27Problem%20Solver%27]&font=Fira%20Code&size=32&pause=500&color=00aaff&width=435&height=55&center=true)](https://git.io/typing-svg)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamromandev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamromandev&theme=tokyonight&hide_border=true)<br/>
