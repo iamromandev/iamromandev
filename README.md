@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Roman - Software Engineer
 
 
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamromandev)](https://github.com/iamromandev/github-readme-stats)
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamromandev&include_all_commits=true)](https://github.com/iamromandev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamromandev)](https://github.com/anuraghazra/github-readme-stats)
 
