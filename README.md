@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Roman
-### Software Enthusiast || Python | Java | Kotlin | JavaScript || Backend & Android Developer || Django | FastAPI | Spring Boot || Docker & AWS
+### Software Enthusiast || AI Builder || Data Strategist || Python | Java | Kotlin | JavaScript || Backend & Android Developer || Django | FastAPI | Spring Boot || Docker & AWS
 
 
 [![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamromandev&include_all_commits=true&rank_icon=percentile)](https://github.com/iamromandev/github-readme-stats)
