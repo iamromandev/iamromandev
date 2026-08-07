@@ -2,7 +2,7 @@
 ### AI & Backend Engineer || Python || FastAPI | Langchain
 
 
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamromandev&include_all_commits=true&rank_icon=percentile)](https://github.com/iamromandev/github-readme-stats)
+[![Roman's GitHub stats](https://github-stats-extended.vercel.app/api?username=iamromandev&include_all_commits=true&rank_icon=percentile)](https://github.com/iamromandev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamromandev)](https://github.com/anuraghazra/github-readme-stats)
 
