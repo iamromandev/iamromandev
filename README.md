@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Roman
-### AI & Backend Engineer · Python · FastAPI · LangChain
+### AI & Backend Engineer · Python · Java · Kotlin · FastAPI · LangChain · PydanticAI
 
 #### About
-I build AI-powered backends in Python: FastAPI services, LLM applications with LangChain and PydanticAI, and the infrastructure that runs them. I also work in Java and Kotlin, and I care about clean, test-first service design.
+I build AI-powered backends in Python: FastAPI services, LLM tooling and agentic workflows, and the infrastructure that runs them. I also work in Java and Kotlin, and I care about clean, test-first design.
 
 - 🔭 Currently working on [dock](https://github.com/iamromandev/dock)
 
