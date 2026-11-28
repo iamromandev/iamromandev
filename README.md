@@ -16,7 +16,7 @@ I build AI-powered backends in Python: FastAPI services, LLM applications with L
 #### Contact
 - Site: [iamromandev.github.io](https://iamromandev.github.io)
 - Email: [iamromandev@gmail.com](mailto:iamromandev@gmail.com)
-<!-- TODO: LinkedIn URL -->
+- LinkedIn: [iamromandev](https://www.linkedin.com/in/iamromandev/)
 
 #### GitHub stats
 <p>
